@@ -1,0 +1,13 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r run dev",
+    "build": "pnpm -r run build",
+    "start": "pnpm --filter backend start"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
